@@ -17,7 +17,7 @@ html
 #inicio
 {
     padding-top: 50px;
-    background-image: url("../Imagenes/inicio.jpg");
+    background-image: url("/Imagenes/inicio.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
